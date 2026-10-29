@@ -88,7 +88,7 @@ Them sinh vien thanh cong!
 
 ## 7. Video giới thiệu các chức năng
 
-**Link video demo:** [Dán link video tại đây](https://example.com/replace-with-your-video-link)
+**Link video demo:** https://drive.google.com/drive/folders/1auhm9yuqxXtJEj1y3NQS2_f7eb9za1nG
 
 > **Trước khi nộp bài:** Thay liên kết ví dụ ở trên bằng link video thật của bạn (Google Drive hoặc YouTube) và kiểm tra quyền truy cập.
 
